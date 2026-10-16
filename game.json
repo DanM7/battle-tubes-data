@@ -767,11 +767,13 @@
       "stats": {
         "easy": {
           "heightIn": 59,
-          "grip": 3
+          "grip": 3,
+          "enduranceBonus": 2
         },
         "hard": {
           "heightIn": 67,
-          "grip": 3
+          "grip": 3,
+          "enduranceBonus": 2
         }
       },
       "unlock": {
@@ -801,11 +803,13 @@
       "stats": {
         "easy": {
           "heightIn": 66,
-          "grip": 3
+          "grip": 3,
+          "enduranceBonus": 2
         },
         "hard": {
           "heightIn": 72,
-          "grip": 3
+          "grip": 3,
+          "enduranceBonus": 2
         }
       },
       "unlock": {
